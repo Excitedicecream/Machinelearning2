@@ -96,5 +96,3 @@ input_df = pd.DataFrame(data)
 with st.expander('Input features'):
     st.write('**Input penguin**')
     input_df
-    st.write('Combined penguin data**')
-    input_penguines
